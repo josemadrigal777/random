@@ -5,3 +5,9 @@
 h1 {
     text-align: center;
 }
+
+body {
+     background: 
+         url('https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Solid_blue.svg/225px-Solid_blue.svg.png');
+    background-height: 100%;
+}

@@ -28,6 +28,7 @@ function createSecondScene() {
 function createThirdScene() {
     makeRect( 50, 50, 50, 50, "brown", 10.75)
     makePolygon(155, 15, 20, 10, "brown", 10.00)
+    makeElipse(155, 15, 20, 10, "brown", 10.25)
 }
 
 
